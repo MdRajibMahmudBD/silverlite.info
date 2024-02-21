@@ -4,11 +4,11 @@ HOST='66.45.251.234';
 USER='rkingvpn_silverlite';
 PASS='rkingvpn_silverlite@#2023';
 DBNAME='rkingvpn_silverlite';
-VMESS_LINK='ORLN3';
-VLESS_LINK='HN13A';
-TROJAN_LINK='ZM6BY';
-SS_LINK='AI6O4';
-DOMAIN=bwmw.silverlite.info
+VMESS_LINK='4FPC6';
+VLESS_LINK='QGUX2';
+TROJAN_LINK='TFJLD';
+SS_LINK='Q3GVQ';
+DOMAIN=imtg.silverlite.info
 UUID=$(cat /proc/sys/kernel/random/uuid)
 
 timedatectl set-timezone Asia/Riyadh
